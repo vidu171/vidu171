@@ -16,7 +16,7 @@
 <br />
 <br />
 
-Hi there, I'm **Vidhyanhsu Jain**, a **Software Developer** and a **System Architect Enthusiast** 🚀 from India, currently, I'm a Software Engineer at Dell Technologies. 
+Hi there, I'm **Vidhyanhsu Jain**, a **Software Developer** and a **System Architect Enthusiast** 🚀, Software Engineer at Amazon. 
 
   <img align="right" alt="GIF" src="https://github.com/vidu171/vidu171/blob/main/vidubanner.gif" />
 
